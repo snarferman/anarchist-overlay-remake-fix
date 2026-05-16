@@ -12,7 +12,7 @@ https://github.com/Dante3147/anarchist-overlay-remake/releases/download/v0.3.0/a
 
 Instale usando um link de manifesto:
 ```
-https://github.com/Dante3147/anarchist-overlay-remake/releases/latest/download/module.json
+https://github.com/snarferman/anarchist-overlay-remake/releases/latest/download/module.json
 ```
 
 ## Exemplo de uso:
